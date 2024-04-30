@@ -1,1 +1,9 @@
-# react responsive admin dashboard with typscript and scss
+# responsive admin dashboard 
+# REACT JS
+# React Router Dom  
+# React CRUD  
+# React Modal  
+# ReCharts
+# Scss
+# Material UI  
+
